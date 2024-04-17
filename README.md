@@ -1,0 +1,1 @@
+# Project about the smart homes and MQTT protocol
